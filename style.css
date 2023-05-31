@@ -1,0 +1,18 @@
+body {
+    margin : 40px;
+    text-align: center;
+    font-family: 'Pangolin', Arial, sans-serif;
+    font-size: 15pt;
+}
+
+@font-face {
+    font-family: "Pangolin";
+    src: url("Pangolin/Pangolin-Regular.ttf");
+    /* src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
+    url("https://yoursite.com/css/fonts/CustomFont.otf") format("opentype"),
+    url("https://yoursite.com/css/fonts/CustomFont.svg#filename") format("svg"); */
+}
+
+img {
+    width: 90%;
+}
